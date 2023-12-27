@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 16,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "Consolas,'Courier New', monospace",
+    "editor.minimap.autohide": true
+}
